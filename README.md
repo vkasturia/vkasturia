@@ -17,7 +17,7 @@ I'm Vaibhav, Consultant at the DAICA (Digital, AI Controls and Algorithms) team 
 * **Document Preparation:** MS Office, Apple Office Suite, LaTeX
 * **Version-Control Software:** Gitlab/Github, GitKraken, SVN, CVS
 * **Others:** Docker, Multithreaded Programming
-* **Basic Knowledge:** & Intel 8085 Programming, Wireshark, Scilab
+* **Basic Knowledge:** Intel 8085 Programming, Wireshark, Scilab
 
 ## Where to find me?
 
