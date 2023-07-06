@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Vaibhav, Senior Consultant at the DAICA (Digital, AI Controls and Algorithms) team at Deloitte, currently living in the beautful city of :de: Düsseldorf.
+I'm Vaibhav, Senior Consultant at the DAICA (Digital, AI Controls and Algorithms) team at Deloitte, currently living in the beautiful city of :de: Düsseldorf.
 
 ## Technical proficiency :
 
