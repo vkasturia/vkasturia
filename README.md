@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Vaibhav, Product Manager at the MART (Marketplace and Retail Technologies) division at Flipkart, currently living in the city of 🇮🇳: Bangalore.
+I'm Vaibhav, Product Manager at MART (Marketplace and Retail Technologies) division of Flipkart, currently living in the city of 🇮🇳: Bangalore.
 
 ## Technical proficiency :
 
