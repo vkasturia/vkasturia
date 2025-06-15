@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Vaibhav, Senior Consultant at the DAICA (Digital, AI Controls and Algorithms) team at Deloitte, currently living in the beautiful city of :de: Düsseldorf.
+I'm Vaibhav, Product Manager at the MART (Marketplace and Retail Technologies) division at Flipkart, currently living in the city of 🇮🇳: Bangalore.
 
 ## Technical proficiency :
 
@@ -22,4 +22,3 @@ I'm Vaibhav, Senior Consultant at the DAICA (Digital, AI Controls and Algorithms
 ## Where to find me?
 
 * [LinkedIn](https://www.linkedin.com/in/vkasturia/) 
-* [Personal Website](https://www.vaibhavkasturia.com)
